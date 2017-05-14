@@ -7,6 +7,7 @@
 .header {
 	padding: 30px 0;
 	border-bottom: solid;
+	background-color: black;
 }
 
 .content {
@@ -14,14 +15,34 @@
 	width: 75%;
 	border-left: solid;
 	padding-left: 30px;
+	background-color:  #eaeae1;
+}
 }
 
 nav {
 	float: left;
 	width: 15%;
+	background-color: black;
+	color: white;
 }
 
 nav ul {
 	list-style-type: none;
 	padding: 0;
+}
+nav ul li a {
+	text-decoration: none;
+	size: 20px;
+}
+h1 {
+	color: grey;
+	size: 50px;
+}
+h1 a {
+	text-decoration: none;
+}
+a :hover {
+    color: gold;
+    background-color: transparent;
+    text-decoration: none;
 }

@@ -11,6 +11,6 @@ Jak ukazuje tento gif, je potreba se zamyslet na tom, jaka je realita a jaka je 
 
 Autor prispevku: Jan Vokral
 
-Rozsirujici zdroje:
+Neco dalsiho na cteni:
 [photoshop](https://cs.wikipedia.org/wiki/Adobe_Photoshop "wikipedie-o-photoshopu")
 [programy-na-upravu-fotek](http://www.zive.cz/clanky/9-nejlepsich-programu-na-upravu-fotek-placene-i-zdarma/sc-3-a-184321/default.aspx#part=1 "dalsi-programy")

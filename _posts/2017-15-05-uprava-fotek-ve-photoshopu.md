@@ -3,7 +3,9 @@ layout: post
 title:  "Uprava fotek ve Phoshopu"
 date:   2017-04-14 13:47:48 +0100
 ---
-#Jak probiha uprava
+# Jak probiha uprava
+
+
 ![funnyphoto](https://media.giphy.com/media/GBBLHDFzsGxry/giphy.gif "photoshopmater")
 
 

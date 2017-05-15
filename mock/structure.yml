@@ -1,5 +1,12 @@
 - _data:
   - beatles.yml
+  _images:
+  - fotka.jpg
+  - fotografie.jpg
+  - fotografie2.jpg
+  - fotografie3.jpg
+  - fotografie4.jpg
+  - fotografie5.jpg
   
 - _posts:
   - 2017-03-13-welcome-to-jekyll.md
@@ -17,3 +24,4 @@
 - _config.yml
 - about.md
 - index.md
+- gallery.md

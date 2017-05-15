@@ -1,0 +1,8 @@
+"Kůzlátka, děťátka, otevřte mi vrátka! Já jsem vaše maminka a nesu vám mlíčko!" Kůzlata ztichla a zmateně začala pobíhat sem a tam. Hrubý hlas však vlka prozradil. Nejstarší bratříček povídá - "Ty nejsi naše maminka, maminka má jemný hlásek!" Vlk musel odejít s nepořízenou. Zamířil ke kováři a nechal si upilovat jazyk z obou stran, aby měl hlas tenký a vysoký. Tentokrát na dveře chaloupky jemně zaťukal.
+
+"Kůzlátka, děťátka, otevřte mi vrátka!! Já jsem vaše maminka a nesu vám mlíčko!" lákal nezbedy hlasem, který sám nepoznával. Kůzlata se nahrnula do chodby, aby otevřela, ale nejstarší bratříček je zarazil - "Jsi-li naše maminka, ukaž kousek nožky oknem!" Venku zamával vlk prackou. Při pohledu z okna ztuhla kůzlátka hrůzou. - "Ty nejsi naše maminka. Ty máš pracky černé! Maminka má kůži bílou jako sníh, mečela kůzlátka rozčíleně a vlkovi neotevřela. Vlk, který hladem téměř šilhal, se odplížil do lesa. Kůzlata se zaradovala a začala si společně hrát.
+Vlk zatím přemýšlel, jak získat kůži bílou jako sníh. Ploužil se podél lesa, až došel k pastýřově chalupě. Tam se sušily ovčí kůže. Vlk se zaradoval, jednu sebral a uháněl k chaloupce kůzlátek. Ovčí kůži si přehodil přes hřbet a už stál opět přede dveřmi. "Kůzlátka, děťátka, otevřte mi vrátka! Já jsem vaše maminka a nesu vám mlíčko!" 
+
+"Naše maminka přišla, otevřeme!" volali kozlíci. - "Není to naše maminka, neotevřeme!" - bránily jim opatrnější kozičky. Ale to už kozlíci otevírali dvířka a vlk skočil dovnitř! Odhodil ovčí kůže a hrozivě vycenil tesáky. Kůzlátka s křikem začala utíkat, bylo jich tolik, že vlk nevěděl kam skočit dřív. Všude se míhala kopýtka, rohy, bříška..
+
+Už už se chystal skočit mezi ně! Ale naštěstí se právě vracela maminka koza. 

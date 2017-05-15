@@ -7,6 +7,9 @@
 .header {
 	padding: 30px 0;
 	border-bottom: solid;
+	font-size: 50px;
+	text-decoration: none;
+	color: white;
 }
 
 .content {
@@ -14,11 +17,16 @@
 	width: 75%;
 	border-left: solid;
 	padding-left: 30px;
+	padding-top: 20px;
 }
 
 nav {
 	float: left;
 	width: 15%;
+	margin-top: 20px;
+	padding-left: 10px;
+	font-size: 20px;
+
 }
 
 nav ul {

@@ -3,7 +3,7 @@ layout: page
 title: Gallery
 ---
 
-#Galerie fotek:
+# Galerie fotek:
 
 ![photo1](_images/fotka1.jpg "fotka1")
 ![photo2](_images/fotografie.jpg "fotka2")

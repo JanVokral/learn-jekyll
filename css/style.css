@@ -2,6 +2,7 @@
 	margin: 50px auto;
 	max-width: 800px;
 	padding: 20px;
+	background-color: black;
 }
 
 .header {
@@ -12,16 +13,31 @@
 .content {
 	float: right;
 	width: 75%;
-	border-left: solid;
 	padding-left: 30px;
 }
 
 nav {
 	float: left;
 	width: 15%;
+	background-color: black;
+	color: white;
 }
 
 nav ul {
 	list-style-type: none;
 	padding: 0;
+}
+nav a{
+	text-decoration: none;
+	color:white;
+	size: 20px;
+}
+nav a:hover{
+	color: gold;
+}
+h1 {
+	color: grey;
+	size: 50px;
+	text-decoration: none;
+	text-align: center;
 }
